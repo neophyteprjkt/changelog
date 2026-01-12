@@ -1,0 +1,11 @@
+########### Important Notes ###########
+
+# FAQ
+• Recommended Recovery? use TWRP unified
+• Recommended Gapps? use any minimal gapps like Nik core.
+• Homescreen Search bar missing? use mindtheapps or flash google velvet addons.
+• Device lagging after first boot? Reboot once & give it some time to settle.
+
+# Notes
+• Use ROM atleast for 2-3 hours before giving any feedback.
+• If you are facing any issue, Please report in support group with proper logs.
