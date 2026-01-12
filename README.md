@@ -1,3 +1,12 @@
+# Changelog 12/01/'26
+* Bringback Xiaomi Parts
+* Bringback MiuiCamera
+* Fix lag on recent app
+* Fix litle cpu stuck in 1350mhz
+* Switch to using LunarisDolby
+* Enable full ART optimizations with VDEX/ODEX
+* Improve scrolling and Ram managment
+
 # Changelog 29/12/'26:
 * Inital A16 build
 * Reconfigure sf properties
