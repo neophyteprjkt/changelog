@@ -1,4 +1,14 @@
-# Changelog 12/01/'26
+# Changelog 20/01/'26:
+* Drop qti thermal hal
+* Change default GPU idle timeout to 60ms
+* Increase launch boost to 5sec
+* Support Wifi6
+* Drop Dolby Atmos
+* Bringback Dirac
+* Update surface flinger timers and disable content detection for refresh rate
+* set readahead_size_kb=128 to system, vendor, data
+
+# Changelog 12/01/'26:
 * Bringback Xiaomi Parts
 * Bringback MiuiCamera
 * Fix lag on recent app
