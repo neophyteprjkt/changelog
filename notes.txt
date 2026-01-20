@@ -1,7 +1,6 @@
 ########### Important Notes ###########
 
 # FAQ
-• Recommended Recovery? use TWRP unified
 • Recommended Gapps? use any minimal gapps like Nik core.
 • Homescreen Search bar missing? use mindtheapps or flash google velvet addons.
 • Device lagging after first boot? Reboot once & give it some time to settle.
