@@ -2,6 +2,7 @@
 * Update work durations from taro
 * Do not prefer hw codecs in thumbnail previews
 * Drop Dirac
+* Bringback LunarisDolby
 * Silence hwcomposer and HWUI logspam
 * Reconfigure ZRAM
 * Set default IRQ affinity for trinket
@@ -9,6 +10,8 @@
 * Disable surfaceflinger prime shader cache conditionally
 * Do not balance msm_drm and kgsl-3d0 IRQs
 * Massively lower LCD thermal throttling
+* Improve cpusets configuration
+* Adjust keyboard height for better typing experience
 
 # Changelog 20/01/'26:
 * Drop qti thermal hal
