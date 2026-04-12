@@ -1,3 +1,9 @@
+# Changelog 12/04/'26:
+* Disable blurs by default
+* Explicitly disable "Enable GL comp backpressure"
+* Finetune statusbar padding
+* Set Window animation/transition scale to 50%
+
 # Changelog 05/04/'26:
 * Update work durations from taro
 * Do not prefer hw codecs in thumbnail previews
