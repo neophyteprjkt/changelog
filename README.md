@@ -3,6 +3,8 @@
 * Explicitly disable "Enable GL comp backpressure"
 * Finetune statusbar padding
 * Set Window animation/transition scale to 50%
+* Adjust SurfaceFlinger sf/app duration
+* enable ro.hwui.render_ahead and set it to 20 frames
 
 # Changelog 05/04/'26:
 * Update work durations from taro
