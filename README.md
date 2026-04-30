@@ -1,3 +1,9 @@
+# Changelog 01/05/'26:
+* Use pie chromatix libs for better camera quality
+* Disable forced encryption by default
+* Disable sdm rotator downscaler
+* Disable SystemUI anti-falsing on lockscreen
+
 # Changelog 12/04/'26:
 * Disable blurs by default
 * Explicitly disable "Enable GL comp backpressure"
