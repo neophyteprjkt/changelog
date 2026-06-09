@@ -1,6 +1,7 @@
-# Changelog 01/05/'26:
+# Changelog 09/06/'26:
+* Drop Dolby
 * Use pie chromatix libs for better camera quality
-* Disable forced encryption by default
+* Stop shipping 32-bit Zygote
 * Disable sdm rotator downscaler
 * Disable SystemUI anti-falsing on lockscreen
 
